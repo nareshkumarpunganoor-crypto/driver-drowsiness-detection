@@ -558,7 +558,7 @@ https://github.com/nareshkumarpunganoor-crypto
 
 **Driver Drowsiness Detection – Deep Learning Micro Project**
 
-https://github.com/nareshkumarpunganoor-crypto/driver-drowsiness-detection
+[https://github.com/nareshkumarpunganoor-crypto/driver-drowsiness-detection](https://colab.research.google.com/drive/1YNMvocqFkHFLxQBjwFLvt79gHDZIYSjg?usp=sharing)
 
 ---
 
